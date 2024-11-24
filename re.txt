@@ -1,0 +1,10 @@
+    sklearn
+    tqdm
+    torchsummary
+    matplotlib
+    opencv-python-headless
+    pandas
+    scikit-image
+    psutil
+    tensorboardX
+    ptflops
